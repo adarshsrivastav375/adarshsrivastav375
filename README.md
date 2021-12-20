@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Programing
 - 🌱 I’m currently learning ...java script
 - 💞️ I’m looking to collaborate on ...react js.
-- 📫 this is my insta id @adarshsrivastav
+- 📫 intagram id : @adarshsrivastav
 
 <!---
 adarshsrivastav375/adarshsrivastav375 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
