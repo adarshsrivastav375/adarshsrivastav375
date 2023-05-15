@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Adarsh Srivastav
 - 👀 I’m interested in ...Web Programing
-- 🌱 I’m currently learning ...java script
 - 💞️ I’m looking to collaborate on ...react js.
 - 📫 intagram id : @the_adarshsrivastav
 
