@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh Srivastav
-- 👀 I’m interested in ...Web Programing
-- 💞️ I’m looking to collaborate on ...react js.
+- 👀 I’m interested in ...Web Programming
+- 💞️ I’m looking to collaborate on ...mern stack dev.
 - 📫 intagram id : @the_adarshsrivastav
 
 <!---
